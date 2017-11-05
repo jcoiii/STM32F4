@@ -16,9 +16,11 @@ Progress 05-11-2017
 -Project di Build
 
 -ST-Link Utility dibuka
-  1.Connect ke Device. \n
-  2.Masukan Program (cari hasil build dari eclipse dengan program berformat .hex). \n
-  3.lalu hex file di Program & Verify. \n
+  1.Connect ke Device.
+  
+  2.Masukan Program (cari hasil build dari eclipse dengan program berformat .hex).
+  
+  3.lalu hex file di Program & Verify.
  
 - Tombol Hitam ditekan (Untuk Reset), sumber diputus juga bisa....
 
