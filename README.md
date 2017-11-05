@@ -16,7 +16,8 @@ Progress 05-11-2017
 -Project di Build
 
 -ST-Link Utility dibuka
-  1.Connect ke Device.
+ 
+ 1.Connect ke Device.
   
   2.Masukan Program (cari hasil build dari eclipse dengan program berformat .hex).
   
