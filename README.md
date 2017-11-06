@@ -26,3 +26,6 @@ Progress 05-11-2017
 - Tombol Hitam ditekan (Untuk Reset), sumber diputus juga bisa....
 
 - LED Kuning akan berkedip......
+
+  LED blink disini dibuat sebagai interaksi microcontroller dengan dunia atau dapat disebut dengan
+  Hello World
