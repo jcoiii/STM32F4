@@ -1,5 +1,10 @@
 # STM32F4
-STM32F4
+
+### To Do List
+- [x] Create some report  
+- [ ] give picture and explanation  
+- [ ] upload source code (which you created or edited) to this repository  
+- [ ] a cooler project will come then
 
 Progress 05-11-2017
 
