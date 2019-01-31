@@ -2,9 +2,9 @@
 
 ### To Do List
 - [x] Create some report  
-- [ ] give picture and explanation  
-- [ ] upload source code (which you created or edited) to this repository  
-- [ ] a cooler project will come then
+- [x] give picture and explanation  
+- [x] upload source code (which you created or edited) to this repository  
+- [maybe] a cooler project will come then
 
 Progress 05-11-2017
 
